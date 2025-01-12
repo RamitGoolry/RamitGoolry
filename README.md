@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=hi%2C+i'm+ramit!;currently%3A+squashing+bugs;currently%3A+turning+caffeine+into+code;currently%3A+hunting+for+cookies;currently%3A+contemplating+the+meaning+of+semicolons;currently%3A+lifting+heavy+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&width=700&height=100&lines=hi!+i'm+ramit;currently%3A+squashing+bugs;currently%3A+hunting+for+snacks;currently%3A+contemplating+the+meaning+of+semicolons;currently%3A+lifting+heavy+things;currently%3A+turning+caffeine+into+code)](https://git.io/typing-svg)
 
 
 I'm a Software Engineer at [Weights & Biases](https://wandb.ai) 🪄🐝.
