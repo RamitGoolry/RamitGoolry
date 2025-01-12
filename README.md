@@ -11,3 +11,7 @@ I'm a Software Engineer at [Weights & Biases](https://wandb.ai) 🪄🐝.
 - 📫 How to reach me: 
     - I'm mostly only active on Instagram: [@ramit_goolry](https://www.instagram.com/ramit_goolry/). Shoot me a message!
     - But you can email me at [ramitgoolry@gmail.com](mailto:ramitgoolry@gmail.com) as well.
+
+## Things I use often / Like to use
+
+[![My Skills](https://skillicons.dev/icons?i=bun,docker,go,graphql,js,kubernetes,lua,mysql,neovim,py,pytorch,react,rust,sqlite)](https://skillicons.dev)
